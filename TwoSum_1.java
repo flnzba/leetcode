@@ -17,7 +17,7 @@ class TwoSum_1 {
                 }
             }
         }
-        throw new IllegalArgumentException("No two sum solution");
+        return new int[]{};
 
     }
 
