@@ -33,18 +33,11 @@
 - Python
 - Javascript
 
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <title>LeetCode Statistiken</title>
-</head>
-<body>
+<div>
     <h1>Meine LeetCode Statistiken</h1>
     <div id="stats"></div>
     <script src="load_stats.js"></script>
-</body>
-</html>
+</div>
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     fetch('leetcode_stats.json')
