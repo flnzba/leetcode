@@ -32,3 +32,33 @@
 - Java
 - Python
 - Javascript
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>LeetCode Statistiken</title>
+</head>
+<body>
+    <h1>Meine LeetCode Statistiken</h1>
+    <div id="stats"></div>
+    <script src="load_stats.js"></script>
+</body>
+</html>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    fetch('leetcode_stats.json')
+        .then(response => response.json())
+        .then(data => {
+            const statsElement = document.getElementById('stats');
+            statsElement.innerHTML = `
+                <p>Gesamt gelöste Probleme: ${data.total_problems_solved}</p>
+                <p>Leichte Probleme gelöst: ${data.easy_problems_solved}</p>
+                <p>Mittel-schwere Probleme gelöst: ${data.medium_problems_solved}</p>
+                <p>Schwere Probleme gelöst: ${data.hard_problems_solved}</p>
+                <p>Gesamtpunktzahl: ${data.total_score}</p>
+            `;
+        })
+        .catch(error => console.error('Fehler beim Laden der Daten:', error));
+});
+</script>
