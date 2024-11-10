@@ -1,10 +1,6 @@
-# leetcode
-
 # LeetCode Fortschritt
 
 ## Gesamtübersicht der gelösten Aufgaben
-
-**Gesamtzahl der gelösten Aufgaben:** `250`
 
 | Schwierigkeitsgrad | Anzahl gelöster Aufgaben |
 | ------------------ | ------------------------ |
@@ -15,10 +11,10 @@
 ## Detaillierte Statistiken
 
 ### Einfache Aufgaben
-
-- [x] 1. Two Sum - [Titel des Problems](https://leetcode.com/problems/problem1/)
-- [x] 792. Rotate String - [Titel des Problems](https://leetcode.com/problems/problem2/)
-- [x] 14. Longest Common Prefix - [Titel des Problems](https://leetcode.com/problems/problem3/)
+- [x] 1544. Make The String Great - [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/description/)
+- [x] 1. Two Sum - [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+- [x] 792. Rotate String - [792. Rotate String](https://leetcode.com/problems/rotate-string/description/)
+- [x] 14. Longest Common Prefix - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 
 ### Mittelschwere Aufgaben
 
