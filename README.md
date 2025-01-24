@@ -18,10 +18,10 @@
 - [x] 20. Valid Paranthesis - [20. Valid Paranthesis](https://leetcode.com/problems/valid-parentheses/)
 - [x] 1757. Recyclable and Low Fat Products - [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 - [x] 197. Rising Temperature - [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/)
-- [x] 584. Find Customer Referee - [584. Find Customer Referee]([https://leetcode.com/problems/rising-temperature/](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50))
-- [x] 595. Big Countries - [595. Big Countries]([https://leetcode.com/problems/rising-temperature/](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50))
-- [x] 1148. Article Views I - [1148. Article Views I]([https://leetcode.com/problems/rising-temperature/](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50))
-- [x] 1683. Invalid Tweets - [1683. Invalid Tweets]([https://leetcode.com/problems/rising-temperature/](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50))
+- [x] 584. Find Customer Referee - [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)
+- [x] 595. Big Countries - [595. Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)
+- [x] 1148. Article Views I - [1148. Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50)
+- [x] 1683. Invalid Tweets - [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50)
 - [x] 1378. Replace Employee ID With The Unique Identifier - [378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/rising-temperature/)
 
 
